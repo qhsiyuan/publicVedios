@@ -17,8 +17,8 @@ with open('../dat/webnum_zzl.pkl', 'rb') as f:
     date = pickle.load(f)
     f.close()
 
-nam = "赵正磊"
-num = "22400758"
+nam = "qwe"
+num = "12345678"
 # dday = datetime.now().day
 dday = [25, 24, 23]
 
